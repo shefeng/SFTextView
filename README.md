@@ -1,0 +1,2 @@
+# SFTextView
+这是ios端一款带placeholder和字数限制的textview
